@@ -1,7 +1,7 @@
-h1. Script Sql com Estados e Cidades com o código do IBGE
+Script Sql com Estados e Cidades com o código do IBGE
 
-p. 27 Estados e 5.565 Cidades, todos com o código do IBGE
+27 Estados e 5.565 Cidades, todos com o código do IBGE
 
-p. É possível verificar o código do IBGE neste link http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm
+É possível verificar o código do IBGE neste link http://www.ibge.gov.br/home/geociencias/areaterritorial/area.shtm
 
-p. E .xls disponibilizado pelo IBGE em http://www.ibge.gov.br/concla/cod_area/cod_area.php?sl=1
+Arquivo .xls disponibilizado pelo IBGE em http://www.sidra.ibge.gov.br/bda/territorio/download/

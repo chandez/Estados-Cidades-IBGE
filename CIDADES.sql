@@ -129,7 +129,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (128,13,3101805,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (129,21,4300505,'Alpestre','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (130,13,3101904,'Alpinópolis','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (131,11,5100250,'Alta Floresta','MT');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (132,22,1100015,'Alta Floresta D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (132,22,1100015,'Alta Floresta D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (133,25,3500907,'Altair','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (134,14,1500602,'Altamira','PA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (135,10,2100402,'Altamira do Maranhão','MA');
@@ -181,7 +181,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (180,13,3102407,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (181,18,2200459,'Alvorada do Gurguéia','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (182,9,5200803,'Alvorada do Norte','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (183,16,4100806,'Alvorada do Sul','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (184,22,1100346,'Alvorada D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (184,22,1100346,'Alvorada D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (185,23,1400027,'Amajari','RR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (186,12,5000609,'Amambai','MS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (187,3,1600105,'Amapá','AP');
@@ -272,7 +272,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (271,9,5201405,'
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (272,9,5201454,'Aparecida do Rio Doce','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (273,27,1701101,'Aparecida do Rio Negro','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (274,12,5001003,'Aparecida do Taboado','MS');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (275,25,3502606,'Aparecida d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (275,25,3502606,'Aparecida d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (276,19,3300159,'Aperibé','RJ');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (277,8,3200508,'Apiacá','ES');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (278,11,5100805,'Apiacás','MT');
@@ -506,7 +506,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (505,5,2902708,'
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (506,24,4202099,'Barra Bonita','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (507,25,3505302,'Barra Bonita','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (508,5,2902807,'Barra da Estiva','BA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (509,18,2201176,'Barra D'Alcântara','PI');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (509,18,2201176,'Barra D''Alcântara','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (510,17,2601300,'Barra de Guabiraba','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (511,15,2501609,'Barra de Santa Rosa','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (512,15,2501575,'Barra de Santana','PB');
@@ -1361,7 +1361,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1360,13,3118007
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1361,13,3118106,'Congonhas do Norte','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1362,16,4106001,'Congonhinhas','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1363,13,3118205,'Conquista','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1364,11,5103361,'Conquista D'Oeste','MT');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1364,11,5103361,'Conquista D''Oeste','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1365,13,3118304,'Conselheiro Lafaiete','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1366,16,4106100,'Conselheiro Mairinck','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1367,13,3118403,'Conselheiro Pena','MG');
@@ -1552,11 +1552,11 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1551,25,3513801
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1552,15,2505600,'Diamante','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1553,16,4107108,'Diamante do Norte','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1554,16,4107124,'Diamante do Sul','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1555,16,4107157,'Diamante D'Oeste','PR');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1555,16,4107157,'Diamante D''Oeste','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1556,13,3121605,'Diamantina','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1557,11,5103502,'Diamantino','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1558,27,1707009,'Dianópolis','TO');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1559,5,2910057,'Dias d'Ávila','BA');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1559,5,2910057,'Dias d''Ávila','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1560,21,4306379,'Dilermando de Aguiar','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1561,13,3121704,'Diogo de Vasconcelos','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1562,13,3121803,'Dionísio','MG');
@@ -1698,7 +1698,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1697,18,2203701
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1698,27,1707405,'Esperantina','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1699,10,2104008,'Esperantinópolis','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1700,16,4107546,'Espigão Alto do Iguaçu','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1701,22,1100098,'Espigão D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1701,22,1100098,'Espigão d''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1702,13,3124302,'Espinosa','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1703,20,2403509,'Espírito Santo','RN');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1704,13,3124401,'Espírito Santo do Dourado','MG');
@@ -1720,7 +1720,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1719,13,3124708
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1720,9,5207501,'Estrela do Norte','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1721,25,3515301,'Estrela do Norte','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1722,13,3124807,'Estrela do Sul','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1723,25,3515202,'Estrela d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1723,25,3515202,'Estrela d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1724,21,4307815,'Estrela Velha','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1725,5,2910701,'Euclides da Cunha','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1726,25,3515350,'Euclides da Cunha Paulista','SP');
@@ -1784,7 +1784,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1783,13,3125952
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1784,16,4107751,'Figueira','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1785,12,5003900,'Figueirão','MS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1786,27,1707652,'Figueirópolis','TO');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1787,11,5103809,'Figueirópolis D'Oeste','MT');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1787,11,5103809,'Figueirópolis D''Oeste','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1788,5,2910859,'Filadélfia','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1789,27,1707702,'Filadélfia','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1790,5,2910909,'Firmino Alves','BA');
@@ -1913,7 +1913,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1912,25,3517109
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1913,5,2911402,'Glória','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1914,12,5004007,'Glória de Dourados','MS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1915,17,2606101,'Glória do Goitá','PE');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1916,11,5103957,'Glória D'Oeste','MT');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1916,11,5103957,'Glória D''Oeste','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1917,21,4309050,'Glorinha','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1918,10,2104305,'Godofredo Viana','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (1919,16,4108551,'Godoy Moreira','PR');
@@ -2013,7 +2013,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2012,13,3128303
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2013,13,3128402,'Guarani','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2014,21,4309506,'Guarani das Missões','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2015,9,5209408,'Guarani de Goiás','GO');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2016,25,3518008,'Guarani d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2016,25,3518008,'Guarani d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2017,16,4109302,'Guaraniaçu','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2018,25,3518107,'Guarantã','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2019,11,5104104,'Guarantã do Norte','MT');
@@ -2055,7 +2055,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2054,13,3129202
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2055,5,2911857,'Heliópolis','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2056,25,3519006,'Herculândia','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2057,21,4307104,'Herval','RS');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2058,24,4206702,'Herval d'Oeste','SC');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2058,24,4206702,'Herval d''Oeste','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2059,21,4309571,'Herveiras','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2060,6,2305209,'Hidrolândia','CE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2061,9,5209705,'Hidrolândia','GO');
@@ -2362,7 +2362,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2361,5,2916302,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2362,13,3133501,'Itapecerica','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2363,25,3522208,'Itapecerica da Serra','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2364,10,2105401,'Itapecuru Mirim','MA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2365,16,4111209,'Itapejara d'Oeste','PR');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2365,16,4111209,'Itapejara d''Oeste','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2366,24,4208302,'Itapema','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2367,8,3202801,'Itapemirim','ES');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2368,16,4111258,'Itaperuçu','PR');
@@ -2390,7 +2390,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2389,12,5004502
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2390,27,1711100,'Itaporã do Tocantins','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2391,15,2507002,'Itaporanga','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2392,25,3522802,'Itaporanga','SP');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2393,26,2803203,'Itaporanga d'Ajuda','SE');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2393,26,2803203,'Itaporanga d''Ajuda','SE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2394,15,2507101,'Itapororoca','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2395,22,1101104,'Itapuã do Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2396,21,4310579,'Itapuca','RS');
@@ -2683,7 +2683,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2682,21,4311239
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2683,2,2704104,'Lagoa da Canoa','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2684,27,1711902,'Lagoa da Confusão','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2685,13,3137205,'Lagoa da Prata','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2686,20,2406205,'Lagoa d'Anta','RN');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2686,20,2406205,'Lagoa d''Anta','RN');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2687,15,2508208,'Lagoa de Dentro','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2688,17,2608503,'Lagoa de Itaenga','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2689,20,2406304,'Lagoa de Pedras','RN');
@@ -2732,7 +2732,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2731,20,2406809
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2732,13,3137700,'Lajinha','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2733,5,2919108,'Lamarão','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2734,13,3137809,'Lambari','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2735,11,5105234,'Lambari D'Oeste','MT');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2735,11,5105234,'Lambari D''Oeste','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2736,13,3137908,'Lamim','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2737,18,2205607,'Landri Sales','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2738,16,4113205,'Lapa','PR');
@@ -2839,7 +2839,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2838,25,3528205
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2839,2,2704302,'Maceió','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2840,13,3138906,'Machacalis','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2841,21,4311700,'Machadinho','RS');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2842,22,1100130,'Machadinho D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2842,22,1100130,'Machadinho D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2843,13,3139003,'Machado','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2844,17,2609105,'Machados','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2845,24,4210050,'Macieira','SC');
@@ -2849,7 +2849,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2848,6,2307635,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2849,18,2205854,'Madeiro','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2850,5,2919926,'Madre de Deus','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2851,13,3139102,'Madre de Deus de Minas','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2852,15,2508703,'Mãe d'Água','PB');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2852,15,2508703,'Mãe d''Água','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2853,14,1504059,'Mãe do Rio','PA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2854,5,2919959,'Maetinga','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (2855,24,4210100,'Mafra','SC');
@@ -3093,7 +3093,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3092,22,1101302
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3093,25,3530201,'Mirante do Paranapanema','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3094,16,4116000,'Miraselva','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3095,25,3530300,'Mirassol','SP');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3096,11,5105622,'Mirassol d'Oeste','MT');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3096,11,5105622,'Mirassol d''Oeste','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3097,25,3530409,'Mirassolândia','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3098,13,3142254,'Miravânia','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3099,24,4210852,'Mirim Doce','SC');
@@ -3298,7 +3298,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3297,21,4312906
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3298,13,3144672,'Nova Belém','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3299,21,4312955,'Nova Boa Vista','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3300,11,5106208,'Nova Brasilândia','MT');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3301,22,1100148,'Nova Brasilândia D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3301,22,1100148,'Nova Brasilândia D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3302,21,4313003,'Nova Bréscia','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3303,25,3532827,'Nova Campina','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3304,5,2922706,'Nova Canaã','BA');
@@ -3431,14 +3431,14 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3430,14,1505205
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3431,3,1600501,'Oiapoque','AP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3432,13,3145406,'Olaria','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3433,25,3533809,'Óleo','SP');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3434,15,2510402,'Olho d'Água','PB');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3435,10,2107407,'Olho d'Água das Cunhãs','MA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3436,2,2705705,'Olho d'Água das Flores','AL');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3437,2,2705804,'Olho d'Água do Casado','AL');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3438,18,2207108,'Olho D'Água do Piauí','PI');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3439,2,2705903,'Olho d'Água Grande','AL');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3440,20,2408409,'Olho-d'Água do Borges','RN');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3441,13,3145455,'Olhos-d'Água','MG');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3434,15,2510402,'Olho d''Água','PB');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3435,10,2107407,'Olho d''Água das Cunhãs','MA');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3436,2,2705705,'Olho d''Água das Flores','AL');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3437,2,2705804,'Olho d''Água do Casado','AL');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3438,18,2207108,'Olho D''Água do Piauí','PI');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3439,2,2705903,'Olho d''Água Grande','AL');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3440,20,2408409,'Olho-d''Água do Borges','RN');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3441,13,3145455,'Olhos-d''Água','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3442,25,3533908,'Olímpia','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3443,13,3145505,'Olímpio Noronha','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3444,17,2609600,'Olinda','PE');
@@ -3533,7 +3533,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3532,16,4117701
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3533,24,4212056,'Palmeira','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3534,21,4313706,'Palmeira das Missões','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3535,18,2207405,'Palmeira do Piauí','PI');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3536,25,3535200,'Palmeira d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3536,25,3535200,'Palmeira d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3537,2,2706307,'Palmeira dos Índios','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3538,18,2207504,'Palmeirais','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3539,10,2107605,'Palmeirândia','MA');
@@ -3651,9 +3651,9 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3650,25,3536307
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3651,20,2409308,'Patu','RN');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3652,19,3303856,'Paty do Alferes','RJ');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3653,5,2923902,'Pau Brasil','BA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3654,14,1505551,'Pau D'Arco','PA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3655,27,1716307,'Pau D'Arco','TO');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3656,18,2207793,'Pau D'Arco do Piauí','PI');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3654,14,1505551,'Pau D''Arco','PA');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3655,27,1716307,'Pau D''Arco','TO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3656,18,2207793,'Pau D''Arco do Piauí','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3657,20,2409407,'Pau dos Ferros','RN');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3658,17,2610608,'Paudalho','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3659,4,1303502,'Pauini','AM');
@@ -3750,7 +3750,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3749,24,4212601
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3750,10,2108454,'Peritoró','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3751,16,4118857,'Perobal','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3752,16,4118907,'Pérola','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3753,16,4119004,'Pérola d'Oeste','PR');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3753,16,4119004,'Pérola d''Oeste','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3754,9,5216452,'Perolândia','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3755,25,3537602,'Peruíbe','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3756,13,3150000,'Pescador','MG');
@@ -3795,7 +3795,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3794,5,2924603,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3795,25,3538105,'Pindorama','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3796,27,1717008,'Pindorama do Tocantins','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3797,6,2310852,'Pindoretama','CE');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3798,13,3150539,'Pingo-d'Água','MG');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3798,13,3150539,'Pingo-d''Água','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3799,16,4119152,'Pinhais','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3800,21,4314456,'Pinhal','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (3801,21,4314464,'Pinhal da Serra','RS');
@@ -4097,7 +4097,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4096,25,3542107
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4097,16,4121257,'Ramilândia','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4098,25,3542206,'Rancharia','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4099,16,4121307,'Rancho Alegre','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4100,16,4121356,'Rancho Alegre D'Oeste','PR');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4100,16,4121356,'Rancho Alegre D''Oeste','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4101,24,4214300,'Rancho Queimado','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4102,10,2109452,'Raposa','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4103,13,3153905,'Raposos','MG');
@@ -4349,7 +4349,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4348,13,3157278
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4349,14,1506351,'Santa Bárbara do Pará','PA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4350,21,4316709,'Santa Bárbara do Sul','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4351,13,3157302,'Santa Bárbara do Tugúrio','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4352,25,3545803,'Santa Bárbara d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4352,25,3545803,'Santa Bárbara d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4353,25,3546009,'Santa Branca','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4354,5,2927606,'Santa Brígida','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4355,11,5107248,'Santa Carmem','MT');
@@ -4358,7 +4358,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4357,24,4215505
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4358,16,4123204,'Santa Cecília do Pavão','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4359,21,4316733,'Santa Cecília do Sul','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4360,21,4316758,'Santa Clara do Sul','RS');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4361,25,3546108,'Santa Clara d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4361,25,3546108,'Santa Clara d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4362,15,2513208,'Santa Cruz','PB');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4363,17,2612455,'Santa Cruz','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4364,20,2411205,'Santa Cruz','RN');
@@ -4420,7 +4420,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4419,26,2806305
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4420,2,2707909,'Santa Luzia do Norte','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4421,14,1506559,'Santa Luzia do Pará','PA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4422,10,2110039,'Santa Luzia do Paruá','MA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4423,22,1100296,'Santa Luzia D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4423,22,1100296,'Santa Luzia D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4424,13,3157906,'Santa Margarida','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4425,21,4316972,'Santa Margarida do Sul','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4426,20,2409332,'Santa Maria','RN');
@@ -4459,7 +4459,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4458,25,3547502
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4459,13,3159605,'Santa Rita do Sapucaí','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4460,27,1718899,'Santa Rita do Tocantins','TO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4461,11,5107768,'Santa Rita do Trivelato','MT');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4462,25,3547403,'Santa Rita d'Oeste','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4462,25,3547403,'Santa Rita d''Oeste','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4463,21,4317202,'Santa Rosa','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4464,13,3159704,'Santa Rosa da Serra','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4465,9,5219506,'Santa Rosa de Goiás','GO');
@@ -4505,7 +4505,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4504,13,3158706
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4505,2,2708006,'Santana do Ipanema','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4506,16,4124004,'Santana do Itararé','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4507,13,3158805,'Santana do Jacaré','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4508,21,4317103,'Sant'Ana do Livramento','RS');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4508,21,4317103,'Sant''Ana do Livramento','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4509,13,3158904,'Santana do Manhuaçu','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4510,10,2110237,'Santana do Maranhão','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4511,20,2411403,'Santana do Matos','RN');
@@ -4621,7 +4621,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4620,8,3204658,
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4621,13,3161007,'São Domingos do Prata','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4622,21,4318051,'São Domingos do Sul','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4623,5,2929107,'São Felipe','BA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4624,22,1101484,'São Felipe D'Oeste','RO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4624,22,1101484,'São Felipe D''Oeste','RO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4625,5,2929008,'São Félix','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4626,10,2110807,'São Félix de Balsas','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4627,13,3161056,'São Félix de Minas','MG');
@@ -4693,7 +4693,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4692,13,3162401
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4693,18,2209906,'São João da Serra','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4694,21,4318424,'São João da Urtiga','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4695,18,2209955,'São João da Varjota','PI');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4696,9,5220009,'São João d'Aliança','GO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4696,9,5220009,'São João d''Aliança','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4697,25,3549201,'São João das Duas Pontes','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4698,13,3162450,'São João das Missões','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4699,25,3549250,'São João de Iracema','SP');
@@ -4715,7 +4715,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4714,13,3162609
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4715,13,3162658,'São João do Pacuí','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4716,10,2111052,'São João do Paraíso','MA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4717,13,3162708,'São João do Paraíso','MG');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4718,25,3549300,'São João do Pau d'Alho','SP');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4718,25,3549300,'São João do Pau d''Alho','SP');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4719,18,2210003,'São João do Piauí','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4720,21,4318432,'São João do Polêsine','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4721,15,2500700,'São João do Rio do Peixe','PB');
@@ -4734,7 +4734,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4733,17,2613305
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4734,21,4318440,'São Jorge','RS');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4735,16,4125308,'São Jorge do Ivaí','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4736,16,4125357,'São Jorge do Patrocínio','PR');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4737,16,4125209,'São Jorge d'Oeste','PR');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4737,16,4125209,'São Jorge d''Oeste','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4738,24,4216602,'São José','SC');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4739,13,3162948,'São José da Barra','MG');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (4740,25,3549508,'São José da Bela Vista','SP');
@@ -5059,7 +5059,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5058,11,5107909
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5059,16,4126603,'Siqueira Campos','PR');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5060,17,2614204,'Sirinhaém','PE');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5061,26,2807204,'Siriri','SE');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5062,9,5220702,'Sítio d'Abadia','GO');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5062,9,5220702,'Sítio d''Abadia','GO');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5063,5,2930758,'Sítio do Mato','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5064,5,2930766,'Sítio do Quinto','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5065,10,2111805,'Sítio Novo','MA');
@@ -5138,7 +5138,7 @@ Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5137,24,4217907
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5138,11,5107958,'Tangará da Serra','MT');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5139,19,3305752,'Tanguá','RJ');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5140,5,2931004,'Tanhaçu','BA');
-Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5141,2,2709004,'Tanque d'Arca','AL');
+Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5141,2,2709004,'Tanque d''Arca','AL');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5142,18,2210979,'Tanque do Piauí','PI');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5143,5,2931053,'Tanque Novo','BA');
 Insert into Cidade (Id,IdEstado,CodigoMunicipio,Nome,Uf) values (5144,5,2931103,'Tanquinho','BA');

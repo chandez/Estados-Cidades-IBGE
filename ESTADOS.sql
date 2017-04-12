@@ -1,27 +1,40 @@
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('1', '12', 'Acre', 'AC', 'Norte');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('2', '27', 'Alagoas', 'AL', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('3', '16', 'Amapá', 'AP', 'Norte');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('4', '13', 'Amazonas', 'AM', 'Norte');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('5', '29', 'Bahia', 'BA', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('6', '23', 'Ceará', 'CE', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('7', '53', 'Distrito Federal', 'DF', 'Centro-Oeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('8', '32', 'Espírito Santo', 'ES', 'Sudeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('9', '52', 'Goiás', 'GO', 'Centro-Oeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('10', '21', 'Maranhão', 'MA', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('11', '51', 'Mato Grosso', 'MT', 'Centro-Oeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('12', '50', 'Mato Grosso do Sul', 'MS', 'Centro-Oeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('13', '31', 'Minas Gerais', 'MG', 'Sudeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('14', '15', 'Pará', 'PA', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('15', '25', 'Paraíba', 'PB', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('16', '41', 'Paraná', 'PR', 'Sul');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('17', '26', 'Pernambuco', 'PE', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('18', '22', 'Piauí', 'PI', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('19', '33', 'Rio de Janeiro', 'RJ', 'Sudeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('20', '24', 'Rio Grande do Norte', 'RN', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('21', '43', 'Rio Grande do Sul', 'RS', 'Sul');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('22', '11', 'Rondônia', 'RO', 'Norte');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('23', '14', 'Roraima', 'RR', 'Norte');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('24', '42', 'Santa Catarina', 'SC', 'Sul');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('25', '35', 'São Paulo', 'SP', 'Sudeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('26', '28', 'Sergipe', 'SE', 'Nordeste');
-Insert into Estado (Id, CodigoUf, Nome, Uf, Regiao) values ('27', '17', 'Tocantins', 'TO', 'Norte');
+-- Create Table --
+
+CREATE TABLE Estado (
+    Id       INT          NOT NULL AUTO_INCREMENT,
+    CodigoUf INT          NOT NULL,
+    Nome     VARCHAR (50) NOT NULL,
+    Uf       CHAR 	 (2)  NOT NULL,
+    Regiao   INT	      NOT NULL,
+    PRIMARY KEY (Id)
+);
+
+-- Insert Data --
+
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (12, 'Acre', 'AC', 1);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (27, 'Alagoas', 'AL', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (16, 'Amapá', 'AP', 1);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (13, 'Amazonas', 'AM', 1);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (29, 'Bahia', 'BA', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (23, 'Ceará', 'CE', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (53, 'Distrito Federal', 'DF', 5);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (32, 'Espírito Santo', 'ES', 3);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (52, 'Goiás', 'GO', 5);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (21, 'Maranhão', 'MA', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (51, 'Mato Grosso', 'MT', 5);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (50, 'Mato Grosso do Sul', 'MS', 5);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (31, 'Minas Gerais', 'MG', 3);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (15, 'Pará', 'PA', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (25, 'Paraíba', 'PB', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (41, 'Paraná', 'PR', 4);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (26, 'Pernambuco', 'PE', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (22, 'Piauí', 'PI', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (33, 'Rio de Janeiro', 'RJ', 3);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (24, 'Rio Grande do Norte', 'RN', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (43, 'Rio Grande do Sul', 'RS', 4);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (11, 'Rondônia', 'RO', 1);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (14, 'Roraima', 'RR', 1);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (42, 'Santa Catarina', 'SC', 4);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (35, 'São Paulo', 'SP', 3);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (28, 'Sergipe', 'SE', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (17, 'Tocantins', 'TO', 1);

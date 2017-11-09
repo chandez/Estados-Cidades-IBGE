@@ -24,7 +24,7 @@ Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (21, 'Maranhão', 'MA', 2
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (51, 'Mato Grosso', 'MT', 5);
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (50, 'Mato Grosso do Sul', 'MS', 5);
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (31, 'Minas Gerais', 'MG', 3);
-Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (15, 'Pará', 'PA', 2);
+Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (15, 'Pará', 'PA', 1);
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (25, 'Paraíba', 'PB', 2);
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (41, 'Paraná', 'PR', 4);
 Insert into Estado (CodigoUf, Nome, Uf, Regiao) values (26, 'Pernambuco', 'PE', 2);

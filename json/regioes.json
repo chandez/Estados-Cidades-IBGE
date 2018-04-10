@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "data": [
+        {
+            "Id": 1,
+            "Nome": "Norte"
+        },
+        {
+            "Id": 2,
+            "Nome": "Nordeste"
+        },
+        {
+            "Id": 3,
+            "Nome": "Sudeste"
+        },
+        {
+            "Id": 4,
+            "Nome": "Sul"
+        },
+        {
+            "Id": 5,
+            "Nome": "Centro-Oeste"
+        }
+    ]
+}

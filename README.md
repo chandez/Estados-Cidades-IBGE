@@ -1,4 +1,4 @@
-## Script Sql com todos os Estados, Municipios, Bairros e Regiões do Brasil
+## Script Sql e JSON com todos os Estados, Municipios, Bairros e Regiões do Brasil
 
 Os dados se encontram com o código oficial do IBGE.
 
@@ -10,3 +10,5 @@ Os dados se encontram com o código oficial do IBGE.
 É possível verificar os dados utilizados nos scripts no sistema [SIDRA](https://sidra.ibge.gov.br/territorio) e efetuar downloads das planilhas.
 
 **Nota** Atualizado em 13/04/2017
+
+
